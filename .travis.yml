@@ -8,4 +8,4 @@ matrix:
       script:  
         - gcc -o aa aa.c 
         - ./aa
-        - ./demo
+ 
